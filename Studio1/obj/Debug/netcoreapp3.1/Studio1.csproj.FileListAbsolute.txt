@@ -1,0 +1,12 @@
+C:\Users\Chasity\source\repos\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.exe
+C:\Users\Chasity\source\repos\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.deps.json
+C:\Users\Chasity\source\repos\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.runtimeconfig.json
+C:\Users\Chasity\source\repos\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.runtimeconfig.dev.json
+C:\Users\Chasity\source\repos\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.dll
+C:\Users\Chasity\source\repos\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.pdb
+C:\Users\Chasity\source\repos\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.AssemblyInfoInputs.cache
+C:\Users\Chasity\source\repos\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.AssemblyInfo.cs
+C:\Users\Chasity\source\repos\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.csproj.CoreCompileInputs.cache
+C:\Users\Chasity\source\repos\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.dll
+C:\Users\Chasity\source\repos\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.pdb
+C:\Users\Chasity\source\repos\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.genruntimeconfig.cache
