@@ -17,6 +17,12 @@ namespace Studio1
 
             Console.WriteLine("The circumference is: " + circumference);
             Console.WriteLine("The diameter is: " + diameter);
+
+            Console.WriteLine("How many miles to the gallon does your car get?");
+            double milesToGallon = double.Parse(Console.ReadLine());
+
+            double gallonsPerCircumference = Math.Round(circumference / milesToGallon, 3);
+            Console.WriteLine("You need " + gallonsPerCircumference + " gallons to get around the circle!");
         }
     }
 }
